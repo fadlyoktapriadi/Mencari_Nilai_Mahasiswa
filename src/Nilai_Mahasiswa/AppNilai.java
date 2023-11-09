@@ -211,19 +211,16 @@ public class AppNilai extends javax.swing.JFrame {
         jLabel12.setText("Nama");
 
         hNama.setFont(new java.awt.Font("Tahoma", 0, 15)); // NOI18N
-        hNama.setText("Asep Junaedi");
 
         jLabel14.setFont(new java.awt.Font("Tahoma", 0, 15)); // NOI18N
         jLabel14.setText("Kelas");
 
         hKelas.setFont(new java.awt.Font("Tahoma", 0, 15)); // NOI18N
-        hKelas.setText("Teknik Informatika");
 
         jLabel16.setFont(new java.awt.Font("Tahoma", 0, 15)); // NOI18N
         jLabel16.setText("Mata Kuliah");
 
         hMK.setFont(new java.awt.Font("Tahoma", 0, 15)); // NOI18N
-        hMK.setText("PBO III");
 
         jLabel9.setFont(new java.awt.Font("Tahoma", 0, 15)); // NOI18N
         jLabel9.setText("Nilai Akhir");
